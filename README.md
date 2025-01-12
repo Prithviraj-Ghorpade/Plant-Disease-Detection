@@ -28,7 +28,7 @@ This project is designed to help farmers and agricultural experts detect plant d
 
 ## 🛠️ Tech Stack
 - **Frontend**: Android (Java and Kotlin)
-- **Backend**: Python, TensorFlow
+- **Backend**: Python, TensorFlow Lite
 - **Machine Learning**: Convolutional Neural Network (`Plant_model.h5`)
 - **API Integration**: OpenWeather API
 - **Tools**: Android Studio, Python Libraries, Firebase
