@@ -68,6 +68,7 @@ The dataset includes plant leaf images with labeled diseases, sourced from platf
 ## 📂 Project Structure
 
 ### Crop Disease Project (Android Application)
+```
 - ├── .idea ------------------------------------------------- Android Studio project configuration files
 - ├── app
 - │   ├── src
@@ -111,6 +112,7 @@ The dataset includes plant leaf images with labeled diseases, sourced from platf
 - │   ├── 1 ----------------------------------------------------- Category 1 
 - │   ├── 2 ----------------------------------------------------- Category 2 
 - ├── test_set.zip --------------------------------------------- Zipped test set for easy sharing
+```
 
 ---
 
@@ -121,8 +123,8 @@ The dataset includes plant leaf images with labeled diseases, sourced from platf
 ---
 
 ## 📰 Publications
-1. **SSRN (Social Science Research Network)**: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716094
-2. **IJIRCCE (International Journal of Innovative Research in Computer and Communication Engineering)**: https://ijircce.com/admin/main/storage/app/pdf/F1YEFPg8egBe72LLxwUa4EWpFJdXlBbDtp2eVNLp.pdf
+1. **![SSRN (Social Science Research Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716094)**
+2. **![IJIRCCE (International Journal of Innovative Research in Computer and Communication Engineering)](https://ijircce.com/admin/main/storage/app/pdf/F1YEFPg8egBe72LLxwUa4EWpFJdXlBbDtp2eVNLp.pdf)**
 
 ---
 
